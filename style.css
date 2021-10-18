@@ -116,10 +116,12 @@ img{
 .SoL{
 	left: 0px;
 	top: 0px;
+	z-index: 10;
 }
 .SoL_r{
 	left: 0px;
 	top: 0px;
+	z-index: 11;
 	opacity: 0;
 }
 .SoL_r:hover{
