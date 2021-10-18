@@ -1,0 +1,302 @@
+@charset "utf-8";
+
+body{
+	padding: 0;
+	margin: 0;
+}
+
+img{
+	position: absolute;
+}
+
+.NA{
+	left: 83px;
+	top: 188px;
+}
+.NA_blue{
+	left: 83px;
+	top: 188px;
+	opacity: 0;
+	}
+.NA_blue:hover{
+	opacity: 1;
+	}
+
+.SA{
+	left: 409px;
+	top: 621px;
+}
+.SA_blue{
+	left: 409px;
+	top: 621px;
+	opacity: 0;
+	}
+.SA_blue:hover{
+	opacity: 1;
+	}
+
+.Af{
+	left: 779px;
+	top: 456px;
+}
+.Af_blue{
+	left: 779px;
+	top: 456px;
+	opacity: 0;
+	}
+.Af_blue:hover{
+	opacity: 1;
+	}
+
+.As{
+	left: 1024px;
+	top: 214px;
+}
+.As_blue{
+	left: 1024px;
+	top: 214px;
+	opacity: 0;
+	}
+.As_blue:hover{
+	opacity: 1;
+	}
+
+.Eu{
+	left: 786px;
+	top: 248px;
+}
+.Eu_blue{
+	left: 786px;
+	top: 248px;
+	opacity: 0;
+	}
+.Eu_blue:hover{
+	opacity: 1;
+	}
+
+.Au{
+	left: 1514px;
+	top: 716px;
+}
+.Au_blue{
+	left: 1514px;
+	top: 716px;
+	opacity: 0;
+	}
+.Au_blue:hover{
+	opacity: 1;
+	}
+
+.GGB{
+	left: 575px;
+	top: 0px;
+}
+.GGB_r{
+	left: 575px;
+	top: 0px;
+	opacity: 0;
+}
+.GGB_r:hover{
+	opacity: 1;
+}
+
+.PH{
+	left: 0px;
+	top: 385px;
+}
+.PH_r{
+	left: 0px;
+	top: 385px;
+	opacity: 0;
+}
+.PH_r:hover{
+	opacity: 1;
+}
+
+.SoL{
+	left: 0px;
+	top: 0px;
+}
+.SoL_r{
+	left: 0px;
+	top: 0px;
+	opacity: 0;
+}
+.SoL_r:hover{
+	opacity: 1;
+}
+
+.WM{
+	left: 575px;
+	top: 385px;
+}
+.WM_r{
+	left: 575px;
+	top: 385px;
+	opacity: 0;
+}
+.WM_r:hover{
+	opacity: 1;
+}
+
+.Stop1{
+	left: 835px;
+	top: 385px;
+}
+
+.CTR{
+	left: 0px;
+	top: 0px;
+}
+.CTR_r{
+	left: 0px;
+	top: 0px;
+	opacity: 0;
+}
+.CTR_r:hover{
+	opacity: 1;
+}
+
+.EI{
+	left: 515px;
+	top: 0px;
+}
+.EI_r{
+	left: 515px;
+	top: 0px;
+	opacity: 0;
+}
+.EI_r:hover{
+	opacity: 1;
+}
+
+.Stop3{
+	left: 1542px;
+	top: 0px;
+}
+
+.GP{
+	left: 0px;
+	top: 0px;
+}
+.GP_r{
+	left: 0px;
+	top: 0px;
+	opacity: 0;
+}
+.GP_r:hover{
+	opacity: 1;
+}
+
+.MM {
+	left: 502px;
+	top: 0px;
+}
+.MM_r {
+	left: 502px;
+	top: 0px;
+	opacity: 0;
+}
+.MM_r:hover{
+	opacity: 1;
+}
+
+.Stop5{
+	left: 1017px;
+	top: 0px;
+}
+
+.IS{
+	left: 0px;
+	top: 0px;
+}
+.IS_r{
+	left: 0px;
+	top: 0px;
+	opacity: 0;
+}
+.IS_r:hover{
+	opacity: 1;
+}
+
+.TM{
+	left: 999px;
+	top: 0px;
+}
+.TM_r{
+	left: 999px;
+	top: 0px;
+	opacity: 0;
+}
+.TM_r:hover{
+	opacity: 1;
+}
+
+.Stop7{
+	left: 1568px;
+	top: 0px;
+}
+
+
+.ET{
+	left: 0px;
+	top: 0px;
+}
+.ET_r{
+	left: 0px;
+	top: 0px;
+	opacity: 0;
+}
+.ET_r:hover{
+	opacity: 1;
+}
+
+.BB{
+	left: 1063px;
+	top: 0px;
+}
+.BB_r{
+	left: 1063px;
+	top: 0px;
+	opacity: 0;
+}
+.BB_r:hover{
+	opacity: 1;
+}
+
+.Stop9{
+	left: 2217px;
+	top: 0px;
+
+}
+
+.SOH{
+	left: 0px;
+	top: 0px;
+}
+.SOH_r{
+	left: 0px;
+	top: 0px;
+	opacity: 0;
+}
+.SOH_r:hover{
+	opacity: 1;
+}
+
+.PP{
+	left: 1155px;
+	top: 0px;
+}
+.PP_r{
+	left: 1155px;
+	top: 0px;
+	opacity: 0;
+}
+.PP_r:hover{
+	opacity: 1;
+}
+
+.Stop11{
+	left: 2181px;
+	top: 0px;
+}
